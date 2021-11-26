@@ -77,7 +77,7 @@
 ## 【4】AWS セキュリティ
 
 * サーバーワークス【AWSセキュリティ】
-<br>https://www.youtube.com/watch?v=DTEMwx7b_No&list=PLCRz5JqTKzfnGpAKqwXlLMWwAAZW2xs43
+<br>【AWSセキュリティ】AWSのセキュリティ基礎 - 後編　https://www.youtube.com/watch?v=nUDCR6GZhkE&list=PLCRz5JqTKzfnGpAKqwXlLMWwAAZW2xs43&index=2
 
 * AWS環境における脅威検知と対応
 <br>https://www.youtube.com/watch?v=e_Cf-aPBLtM
