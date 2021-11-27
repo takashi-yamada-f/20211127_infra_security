@@ -23,7 +23,7 @@
 * IPA 独立行政法人 情報処理推進機構：重要なセキュリティ情報一覧 
 <br>https://www.ipa.go.jp/security/announce/alert.html
 
-### （３）セキュリティアプライアンスの利用
+### （３）対策（ソフトウェア、アプライアンス等）
 
 #### 暗号化　SSL/TLS
 * SSLとTLSとは？意外に知らないSSLとTLSの違い（簡単編） | 常時SSL Lab. by クラウド型レンタルサーバー「Zenlogic」 https://www.idcf.jp/rentalserver/aossl/basic/ssl-tls/
